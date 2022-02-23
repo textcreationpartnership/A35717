@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth-triumphant in a dialogue between a Papist and a Quaker : wherein (I suppose) is made manifest, that quaking is the off-spring of popery : at least, the Papist and the Quaker, are (fratres uterini) both of one venter.</title>
+            <author>Derby, Charles Stanley, Earl of, 1628-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35717</idno>
+            <idno type="STC">Wing D1090B</idno>
+            <idno type="STC">ESTC R16515</idno>
+            <idno type="EEBO-CITATION">12676582</idno>
+            <idno type="OCLC">ocm 12676582</idno>
+            <idno type="VID">65571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth-triumphant in a dialogue between a Papist and a Quaker : wherein (I suppose) is made manifest, that quaking is the off-spring of popery : at least, the Papist and the Quaker, are (fratres uterini) both of one venter.</title>
+                  <author>Derby, Charles Stanley, Earl of, 1628-1672.</author>
+               </titleStmt>
+               <extent>45-58 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65571:1"/>
+            <pb facs="tcp:65571:1"/>
+            <p>
+               <hi>TR<g ref="char:V">Ʋ</g>TH-TRIUMPHANT:</hi> IN A DIALOGUE BETWEEN A PAPIST AND A QUAKER: <hi>Wherein (I ſuppoſe)</hi> Is made Manifeſt, that <hi>Q<g ref="char:V">Ʋ</g>AKING</hi> is the OFF-SPRING of <hi>POPERY.</hi>
+            </p>
+            <p>
+               <hi>At the least,</hi> The PAPIST and the QUAKER, Are <hi>[FRATRES <g ref="char:V">Ʋ</g>TERINI]</hi> Both of one VENTER.</p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Domini,</hi> MDCLXXI.</p>
+            <pb facs="tcp:65571:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="45" facs="tcp:65571:2"/>
+            <head>
+               <hi>TR<g ref="char:V">Ʋ</g>TH-TRIUMPHANT:</hi> In a DIALOGUE Between a <hi>PAPIST,</hi> and a <hi>QUAKER.</hi>
+            </head>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <seg rend="decorInit">G</seg>Ood morrow, my half Brother in Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>
+                  <hi rend="margQuotes">Why, what Religion art thou of?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I am a <hi>Roman Catholick;</hi> and I call thee my half Brother, be<g ref="char:EOLhyphen"/>cauſe thou art a <hi>Quaker.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>
+                  <hi rend="margQuotes">What Brother-hood or Re<g ref="char:EOLhyphen"/>lation can there be between a <hi>Quaker</hi> and a <hi>Papiſt?</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>O Brother! We are nearer a kin, than thou art aware of.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">That's impoſſible, for I turnd Quaker to avoid Po<g ref="char:EOLhyphen"/>pery: for I did think the Church of <hi>England</hi> would ſet up Po<g ref="char:EOLhyphen"/>pery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Nothing leſs, Brother; for I aſſure you the Pope, and all of his Perſwaſion, of all their Adverſaries dread none ſo much as the Church of <hi>England:</hi> But to come to the Point, all, or moſt part of what you believe, you have from us; for though I am a Shoo-maker, and work at my Trade, I am for all that a Prieſt, and am ſometimes a Quaker, and Preach up your Reli<g ref="char:EOLhyphen"/>gion, as I have done ſeveral times at <hi>Briſtol.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">What ſhould be your Reaſon to endeavour to ſet up our Religion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>To make you turn Papiſt, as you call us.</p>
+            </sp>
+            <sp>
+               <pb n="46" facs="tcp:65571:3"/>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">This is a ſtrange Riddle to me, pray unfold it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>That I intend to do; We muſt do what we can to cry down the Bible, for that makes clear againſt us; and that trick we taught you of calling the Scripture a dead Letter; Then Se<g ref="char:EOLhyphen"/>condly, we teach Free-Will to that height, that a man has Power in himſelf to pleaſe God, and walk uprightly: Do not you be<g ref="char:EOLhyphen"/>lieve all this, Brother?</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">Yea; Thus far we agree.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Do you know Cap. <hi>Everard?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">Yea, He was a Godly Man before he turn'd Papiſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>He never was otherwiſe, he was a Prieſt too, and com<g ref="char:EOLhyphen"/>manded by the Pope to pretend to be one of you, the better to oppoſe the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">Strange! Is it poſſible? now I am afraid I am nearer Popery, than I was aware of: Bleſs me! by leaving the Church of <hi>England</hi> I thought to flie from Popery; and for ought I per<g ref="char:EOLhyphen"/>cieve, I am running head-long into it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes Brother, I hope to make you a good Catholick be<g ref="char:EOLhyphen"/>fore we part.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">You can never do thut.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I will either do ſo, or confirm you where you are.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">For the latter, I am content.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Have you not heard of my Lady — How ſhe run through all Religions; from a Proteſtant ſhe turn'd Presbyterian, (to avoid Popery;) there ſhe could not reſt, becauſe there was a Church-Government, and therefore reſembled too much the Church of <hi>England;</hi> and beſides, ſhe hearing there were people that Prayed and taught by the Spirit, away ſhe goes to them: To be ſhort, ſhe was one while an Independent, a Quaker, and what not? Well, at laſt hearing that the Church of <hi>Rome</hi> had an In<g ref="char:EOLhyphen"/>fallible guide in Religion, thither ſhe ſteered her Courſe, and there ſhe caſt Anchor, and continues a good Catholick.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> I have heard of that Lady you ſpeak of, and for that reaſon, and becauſe of what I have heard you ſay, I love my Religion never the better for it: there is one only reaſon per<g ref="char:EOLhyphen"/>ſwades me to continue in it.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What is that?</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">I will tell thee, If thou wilt promiſe me to ſay no<g ref="char:EOLhyphen"/>thing of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I do, upon the word of a Prieſt.</p>
+            </sp>
+            <sp>
+               <pb n="47" facs="tcp:65571:3"/>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> Then I will tell thee truly; a Siſter (for thou muſt know we call one another Brothers and Siſters) may not deny a Brother to lie with her, if the Spirit moves; for every provo<g ref="char:EOLhyphen"/>cation to that which you call Letchery, We ſay is Gods Spirit) nor a Brother a Siſter, if the Spirit enable him.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>If that be all, turn Catholick, and I will give thee a Diſ<g ref="char:EOLhyphen"/>penſation to have as many Women as thou wilt, or art able to turn to, that die when thou wilt, thou art ſure to go to Heaven however.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> A good Argument, I confeſs, if thou couldſt prove thy ſelf enabled thereunto by God Almighty; but I ſuſpect, what thou doſt offer is to ſatisfie our Luſts and Letchery, (no matter for our Souls,) to make us ſubſervient to your ends in this world; whereas what we do is to raiſe up a Holy Seed unto the Lord; ſo that by doing him Service, (not by Sin<g ref="char:EOLhyphen"/>ning againſt him) we indulge much to our own ſatisfaction; ſo that we ſerve him without any trouble either to the Conſci<g ref="char:EOLhyphen"/>ence, or the Body: for to give a Licence for Sin is a moſt horrid thing; to ſay you have Power to Abſolve for Sins paſt, (as the Church of <hi>England</hi> ſays,) is not amiſs; but that you have Power to give Licence to Sin, is what I can never believe; and therefore for any thing I have yet heard from thee, I will continue as I am; therefore be one of Us, and thou ſhalt en<g ref="char:EOLhyphen"/>joy Multitudes of Women, without offending God.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I have the ſame argument to perſwade thee to come to us; I can give Indulgencies that ſhall ſerve thee and thy Poſteri<g ref="char:EOLhyphen"/>ty for Thouſands of Years.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> This is like a Doctrine of ours, that God ſees not Sin in Us that are the Godly; if one of Us lie with many Women, we are then raiſing a Holy Seed, a Royal Prieſthood; amongſt the Ungodly party, this is Fornication and a Sin; the Goods of the whole World which the wicked poſſeſs, belong not to them, they are Ours of right; to diſpoſſeſs them thereof is no Robbery.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>We ſay the ſame, for the Pope hath power to diſpoſe of all the Kingdoms of the Earth, to take them from the wicked, from Hereticks, Schiſmaticks, Idolaters, <hi>&amp;c.</hi> and give them to true Catholicks; for thoſe are the truly Godly party.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> Bleſs me! where am I? I ſhall be a Papiſt I very much fear; nay, I doubt I have been one all this while.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <pb n="48" facs="tcp:65571:4"/>
+               <speaker>Pap.</speaker>
+               <p>Doubtleſs we are very near one another.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> But I'le get further from thee if I can; but pray let me ask thee one Queſtion; why are you a greater Enemy to the Church of <hi>England,</hi> than to all others that differ from the Church of <hi>Rome?</hi>
+                  </hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Becauſe they have the reſemblance of a Church, which none of you have, except the Presbyterian; and next the Church of <hi>England</hi> we dread them; and the more, becauſe they ſeem to comply more with the Church of <hi>England</hi> than formerly, and be<g ref="char:EOLhyphen"/>gin to perceive it impoſſible to ſet up for themſelves; for when ever they ſhall attempt it, the Independents will infallibly ſup<g ref="char:EOLhyphen"/>plant them, as formerly; and they again, (the Independents I mean) will run into ſo many Sects of Religion, and Parties, that they can never ſubſiſt; but muſt at laſt be forced to ſubmit to the Church of <hi>England,</hi> or us of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> I perceive now I muſt be either a Proteſtant, or a Papiſt.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Without all peradventure you cannot avoid it.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">I'le ee'n then turn Proteſtant, as I was before 1641.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>By no means do ſo; either come ſtrait to Us, or con<g ref="char:EOLhyphen"/>tinue a Quaker; Nay, rather than turn Proteſtant, I'le get thee a Diſpenſation from <hi>Rome</hi> to continue a Quaker; and that thou ſhalt not ſo much as go into Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes"> Yours is a very brave Religion, if it could hold wa<g ref="char:EOLhyphen"/>ter; but what aſſurance have you that God allows this?</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>The Infallibility of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Quak.</speaker>
+               <p>
+                  <hi rend="margQuotes">What is that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>The truth is, we are not yet agreed amongſt Our ſelves; for ſome of Us (as we Jeſuites) do hold the Pope to be Infallible; that whatſoever He Decrees, We are obliged to yield unto an implicite obedience and Belief; others do place it in a General Council, the Pope preſiding over it; And laſtly, others in a Council only.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>And ſo I perceive it's no where with you, with us it is; for now I will argue like a Proteſtant; we have Infallibility in our Church.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">What is that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>The Old and New Teſtament; for you cannot deny it to be the Word of God.</p>
+            </sp>
+            <sp>
+               <pb n="49" facs="tcp:65571:4"/>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> That we cannot; but this we ſay: That it is but a dead Letter, without the Interpretation of the Church.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Whoop holy day! I think your Worſhip will turn Quaker.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> No ſuch thing, I warrant you; but to proceed, and to ſpeak to you, as to a Proteſtant. All your Oppoſers pro<g ref="char:EOLhyphen"/>duce the Bible againſt you, as well as againſt us; What can you anſwer to that?</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Let right take place; but by the way, this is foul play, for you to urge me to anſwer you as a <hi>Hydra,</hi> with ſo many Heads; Will you be a Papiſt, a Presbyterian, Independent, Qua<g ref="char:EOLhyphen"/>ker, and every thing at once? This is to be a right Jeſuite indeed; but I will allow you all this advantage: I will therefore go on, as I ſaid before, let right take place; for the Church of <hi>England</hi> has the advantage over all her Oppoſers above-mentioned, and over ten thouſand more, if ſhe had ſo many; for againſt you all, ſhe has a claim to this Infallible Guide of the Word of God, with all the difficulties therein contained, explained by all Antient Fathers and Councils; againſt which no ſober man can except. So that we have the Bible againſt you, and againſt them; and againſt you we have the Bible, as I ſaid before, ex<g ref="char:EOLhyphen"/>plained, with the four firſt General Councils, with the Practice of thoſe times of Purity; beſides, is it not familiar with you of the <hi>Roman</hi> Church (together with all thoſe ſeveral enemies above-named, and Oppoſers of the Church of <hi>England)</hi> to cry up Succeſs, and may not Proteſtants make uſe of the ſame Plea, ſo far, eſpecially, as it is <hi>Argumentum ad hominem?</hi> And ſo offer to your proſpect and conſideration, the miraculous Reſtauration of the Church of <hi>England,</hi> in the year, 1660.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">You mean, the Kings Reſtauration.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I mean both; but we are now diſputing concerning the Church, not King, of <hi>England;</hi> for though you, as being a Papiſt, a Prieſt, and a Jeſuite, are an Enemy to both Church and State: But the reaſon I only name the Church of <hi>Englands</hi> Reſtauration, is, becauſe, I conceive, God reſtored the King, for the Churches ſake; becauſe God knew the King would reſtore the Church of <hi>England,</hi> for whoſe ſake God did reſtore him. Moreover, I mention the Church of <hi>England</hi> only, becauſe God has dealt ſo often miraculouſly for her. As firſt, in our King <hi>Henry</hi> the Eighth his dayes, that ſuch an occaſion of Scandal
+<pb n="50" facs="tcp:65571:5"/>
+ſhould be given to the whole World, as well as to that King, in particular; that though he did not ſo very much alter the <hi>Roman</hi> Religion, yet he abſolutely took away the Popes Authority, which was a miraculous ſtep to that more exact Reformation: Which, in the ſecond place, God did miraculouſly bring to paſs, <milestone type="tcpmilestone" unit="unspecified" n="2"/> by means of (a Child, as I may ſay) King <hi>Edward</hi> the Sixth. The third Miracle God did act for the Church of <hi>England,</hi> was, <milestone type="tcpmilestone" unit="unspecified" n="3"/> that Queen <hi>Mary,</hi> Eſpouſed to a King of <hi>Spain,</hi> having fully reſtored Popery, and butchered thouſands of Proteſtants; yet <note place="margin">The miracu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous methods <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f God, on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ehalf of <hi>Eng<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>and,</hi> during ſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al Succeſſi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns of time.</note> was it not in her power, though aſſiſted with the Houſe of <hi>Auſtria</hi> (which was then in its Zenith, as I ſuppoſe now <hi>France</hi> is) to prevent the wonderfully miraculous Reſtauration of the Church of <hi>England,</hi> by the ever famous Queen <hi>Elizabeth;</hi> and though that Good, and Gallant Queen was in the hands of Her, and the Church of <hi>Englands</hi> Adverſaries, yet did God mi<g ref="char:EOLhyphen"/>raculouſly preſerve Her, for his Churches ſake. And this Church was, likewiſe, in the fourth place (though indeed, not reſtored, yet powerfully and wonderfully) preſerved, when <milestone type="tcpmilestone" unit="unspecified" n="4"/> King <hi>James</hi> Succeeded to this great, and virtuous Queen. The laſt Miracle (I pray God this Church may need no more of <milestone type="tcpmilestone" unit="unspecified" n="5"/> them) which it pleaſed God to ſhew this Church, was in the Year Sixty; though indeed three more might have been added, ſo as to have made this fifth the eighth; but, for brevities ſake, I ſhall put them together. Firſt, the Defeat of that Navy, which the <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Spaniards</hi> called their <hi>Invincible Armad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> in the Year, 1588. Secondly, the miraculous prevention of the Popiſh Conſpiracy, <milestone type="tcpmilestone" unit="unspecified" n="2"/> the fifth day of <hi>November;</hi> whereby, the King, His Nobles, the chief of the Gentry and Commons in Parliament, ſhould have been blown up. The third, the true Chriſtian Valour and Mag<g ref="char:EOLhyphen"/>nanimity <milestone type="tcpmilestone" unit="unspecified" n="3"/> which appeared in his Late Majeſty, on the behalf of the Church of <hi>England,</hi> (aſſerting her Reformation) during all His Sufferings, to the laſt minute of his Martyrdom. And now, Sir, I hope I have confuted you, by your own way of Argu<g ref="char:EOLhyphen"/>mentation; and now, Sir, hereafter (if you pleaſe) you may worſhip your great <hi>Diana</hi> of Succeſs.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> Your Succeſſes we cannot deny; but ſtill, I con<g ref="char:EOLhyphen"/>ceive, the Bible is not a ſufficient Infallible Guide.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I think I have very well proved, by the ſeveral above<g ref="char:EOLhyphen"/>mentioned miracles, that Infallibility of the Bible is for the Church of <hi>England</hi> (as now it is eſtabliſhed, this Year 1668. <hi>Jul.)</hi>
+                  <pb n="51" facs="tcp:65571:5"/>
+againſt your, and all other Diſſenters from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and, in my opinion, is a great ſign of her being a true Church; that ſhe is furniſhed on all ſides with good and ſound Arguments for her defence, and offending her Adverſaries; for, in the firſt, ſhe oppoſes to you the Bible, Practice of the Primi<g ref="char:EOLhyphen"/>tive Church, the Antient Fathers, and your own modern ones; and againſt ſuch as I was once, formerly; She has the ſame, though She have leſs occaſion to make uſe of the Bible. Thus is ſhe fur<g ref="char:EOLhyphen"/>niſht with complete Armour and Weapons. God Almighty has armed Her <hi>Cap ape,</hi> againſt the Devil, and all his Inſtruments; So that the Gates of Hell ſhall never be able to prevail againſt Her.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>You have taken your Common-Prayer-Book out of the Maſs.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>You have your Maſs out of the Jewiſh Liturgy.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">How can that be?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Are not the <hi>Pſalms</hi> of <hi>David</hi> made uſe of in the Maſs?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">They are, I confeſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>They were, either all, or in part, the Jewiſh Liturgy.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">We do confeſs, they were.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Then hereafter, tell us no more of our Common-Prayer being taken out of the Maſs; and now we are ſpeaking of the <hi>Jews,</hi> let me tell you, that you make uſe of the ſame Ar<g ref="char:EOLhyphen"/>guments to oppoſe us, that the <hi>Jews</hi> did to oppoſe our Saviour; they urged to our Saviour, That he was an Innovator, and that he oppoſed the Traditions of their Church; which (ſay they) had continued, from the eſtabliſhment of it by God, in <hi>Moſes</hi>'s time. This method you obſerve againſt us, calling us Inno<g ref="char:EOLhyphen"/>vators, who are the chiefeſt oppoſers of Innovation; for our Churches endeavour is to caſt off what you have Innovated in Chriſtian Religion. Let me ask you one Queſtion; Do not you believe, all that the Church of <hi>England</hi> believes?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes">We do, but we believe more.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Then, let me tell you, whatſoever in more, are <hi>Romes</hi> Superſtructures, and Innovations; and ought to be rejected of all true Chriſtians.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> I doubt I have kill'd the wrong man; for I doubted not, from a Quaker, to have made you one of us; but inſtead of that, I have made you a Proteſtant; and, for ought I know, I may chance to be one too: But I will not quit the Field yet, but have more diſcourſe with you.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <pb n="52" facs="tcp:65571:6"/>
+               <speaker>Proteſt.</speaker>
+               <p>With all my heart; for (me-thinks) the more I diſ<g ref="char:EOLhyphen"/>courſe with you, the more I am enabled above my capacity, which <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> muſt attribute to Gods good <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> who enables me, a wea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rument of his, to defend <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> I<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be the Truth, I wiſh it may appear ſo; in the mean time, I ſhall proceed thus: Your Religion was never heard of, before <hi>
+                        <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>her</hi>
+                     <g ref="char:punc">▪</g>s time.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſt.</speaker>
+               <p>Is not that Argument worn thread-bare yet? But ſeeing you inſiſt upon it, I ſhall repeat unto you, for anſwer, the words of a Learned Man, out of his Epiſtle Dedicatory to His preſent Majeſty; the words (as I remember) are theſe,— <q>Since that great Miracle of Divine Providence, in your Majeſtie's <note place="margin">Stilling fleet.</note> moſt happy Reſtauration, we have ſeen thoſe, who before triumphed over the Church of <hi>England,</hi> as dead; as much ex<g ref="char:EOLhyphen"/>preſſing their envy at Her reſurrection: Neither could it other<g ref="char:EOLhyphen"/>wiſe be expected, but that ſo ſudden a recovery of Her former Luſtre, would open the mouths of Her weak, but contentious Adverſaries; who ſee Her ſhine in a Firmament, ſo much a<g ref="char:EOLhyphen"/>bove them: But it is a part of Her preſent Felicity, that they are aſhamed of the inſulting Queſtion (What is become of your Church now?) and are driven back to their old imper<g ref="char:EOLhyphen"/>tinency (Where was your Church, before <hi>Luther?)</hi> They might as well alter the Date of it, and ask, where She was before your Majeſties Reſtauration? For as She only ſuffered an Eclipſe, in the late Confuſions; no more did She (though of a longer ſtay) in the times before the Reformation; and it was Her great Honour, that She was not awakened out of it (as of old they fancied) by beating of Drums, or the rude Clamours of the People; but as She gradually regained Her Light, ſo was it with the Influence of Supreme Autho<g ref="char:EOLhyphen"/>rity, which has cauſed ſo cloſe an Union and Combination of Intereſts between them, that the Church of <hi>England,</hi> and the Royal Family, have, like <hi>Hippocrates</hi> his Twins, both wept and rejoyced together: And nothing doth more argue the excellent conſtitution of our Church, than that wherein the purity of Chriſtian Doctrine is joyned with the moſt hearty acknowledgment of your Majeſtie's Power and Supremacy—</q> Thus far that learned Author; I ſhall add further; That if a Church Eclipſed, or unſeen, ſhall be the deſtruction of it, or that there was ever any ſuch thing, I would very fain know, where
+<pb n="53" facs="tcp:65571:6"/>
+the Church of God was, when (it was ſaid) the whole World was turn'd <hi>Arrian;</hi> and before our Saviour came into the world, how often was the Church of God inviſible, and the Worſhip, or Religion appointed, utterly overthrown by Idolaters? Such as the Church of God was in thoſe days, the ſame our Church was before the Reformation; and where the one was, there was the other; in Dens and Caves and in the hearts of good and Religi<g ref="char:EOLhyphen"/>ous Men, where God did receive an acceptable Sacrifice. We ſee; in the 19 <hi>Chap.</hi> of the firſt Book of the <hi>Kings, verſe</hi> 10. how <note place="margin">1 Kings, Cap. 19. Ver. 10.</note> inviſible the Church of God was, by the expreſſion of the Pro<g ref="char:EOLhyphen"/>phet <hi>Elias</hi> there,<hi>—I have been very jealous for the Lord God of Hoſts; for the Children of</hi> Iſrael <hi>have forſaken thy Covenant, broken down thine Altar, and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>in thy Prophets with the ſword, and I only am left, and they ſeek <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to take it away.—</hi>Theſe were the words of a true Prophet of the Lord, to whom the Church of God was ſo inviſible to him (though often a fore-ſeer and fore-teller of future contingencies) that he con<g ref="char:EOLhyphen"/>ceives himſelf to be the only Servant of the Lord, left upon the face of the Earth; yet in the Eighteen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <hi>verſe</hi> of the fore-men<g ref="char:EOLhyphen"/>tioned <hi>Chap.</hi> God tells the Prophet, <hi>Of Seven Thouſand Men in</hi> Iſrael <hi>remaining, even all the Knees that have not bowed unto</hi> Baal; <hi>and every Mouth that hath not kiſt him.—</hi>Thus you ſee, before <hi>Luther</hi>'s time, notwithſtanding their inviſibility (ac<g ref="char:EOLhyphen"/>cording to this of the Prophet,) God might, and no doubt, had thouſands of true believers, <hi>which had not bowed their knees to</hi> your <hi>Baal</hi> of <hi>Rome;</hi> and <hi>whoſe Mouths had never kiſt him;</hi> and, no doubt, the <hi>Simile</hi> is very pat between this <hi>Baal</hi> of <hi>Jezabel</hi>'s, in the Book of the <hi>Kings,</hi> and your <hi>Baal, i. e.</hi> the Pope of <hi>Rome;</hi> for, as this <hi>Baal</hi> of <hi>Jezabel</hi> was to be bowed unto, and Kiſſed; ſo is your <hi>Baal,</hi> or Pope of <hi>Rome,</hi> likewiſe to be bowed unto, and Kiſſed, (not his Face, but his Toe) even by Emperors, and <note place="margin">Our Saviour did ſuffer him<g ref="char:EOLhyphen"/>ſelf to be kiſſed on the Face; to witneſs <hi>Ju<g ref="char:EOLhyphen"/>das</hi>'s betraying this Saviour of the World with a kiſs.</note> Kings, as well as by the meaneſt of his Worſhippers and Abettors; and thus, according to the Apoſtle, St. <hi>Paul,</hi> in the ſecond to the <hi>Theſſalonians,</hi> Cap. 2. Ver. 4. <hi>He is an Adverſary</hi> [to our Savi<g ref="char:EOLhyphen"/>our and his Holy Religion,] <hi>and exhalteth himſelf above, and againſt all that is called God, or that is Worſhipped;</hi> ſo that He doth ſit as God in the Temple of God, ſhewing himſelf that He is God. And this truth is yet more confirm'd even by your ſelves, by whom this Pope is called <hi>[Dominus Deus noſter Papa;]</hi> and to this Pope (in your ordinary diſcourſe, either to him, or of
+<pb n="54" facs="tcp:65571:7"/>
+him) you attribute a Title only due to God, which is,<hi>—His Ho<g ref="char:EOLhyphen"/>lineſs.</hi> There be three other Texts in this ſame Chapter, that may very well be applyed to your <hi>Baal, or</hi> Pope, Ver. 8, 9, 11. <hi>And then ſhall that wicked be revealed, whom the Lord ſhall con<g ref="char:EOLhyphen"/>ſume with the Spirit of his Mouth, and ſhall aboliſh with the brightneſs of his coming,</hi> as it is, Ver. the 8th. For during the darkneſs of Superſtition and Popery, (the times preceding before <hi>Luther, Calvin,</hi> and others) this <hi>Baal</hi> was Worſhipped with<g ref="char:EOLhyphen"/>out controul, or viſible gainſaying; the true Worſhippers, thoſe 7000. that had not bowed to him, nor Kiſſed him, being as in<g ref="char:EOLhyphen"/>viſible, as to outward proſperity, as thoſe 7000. in the days of <hi>Elias:</hi> But when the time came for the appearance of thoſe glo<g ref="char:EOLhyphen"/>rious Reformers of Religion, and manners, according to Gods appointment; for to this, God alone, as it is in the <hi>Acts</hi> of the Holy Apoſtles, Cap. 1. Ver. 7. <hi>The Times, and the Seaſons, the Father hath put into his own Hands; then did that wicked one</hi> [this Roman <hi>Baal] begin to be revealed, whom the Lord ſhall conſume with the Spirit of his Mouth, and aboliſh with the brightneſs of his coming.</hi> Ver. 8. The 9. Ver. is applicable to your <hi>Baal</hi> in your falſe Miracles, Signs, and Lying wonders; where<g ref="char:EOLhyphen"/>by you lie in wait to deceive the Ignorant and ſimple. This per<g ref="char:EOLhyphen"/>ſon muſt be conſumed and aboliſhed; even him (as it is, Ver. 9.) whoſe coming is by the effectual working of Satan, with all Power; [the Inquiſition, and their viſible pretended infallibility] and Signs, and lying Wonders.—And God knows, with ſuch Signs and lying Wonders, falſe Miracles, <hi>&amp;c.</hi> Your Church is ſufficiently fraught. Ver. 11. is the conſequence of the former recited Verſes, 8, &amp; 9 and therefore God ſhall ſend them ſtrong deluſions, <hi>that they ſhall believe Lies;</hi> and this is verified every day, that many among You, (otherwiſe, Learned and wiſe e<g ref="char:EOLhyphen"/>nough,) do give themſelves up to theſe ſtrong deluſions, giving as great credit to your Legends, as the Fables of one <hi>Winifred; &amp;c.</hi> as to the Goſpel it ſelf; I could add upon this Subject; but I ſuppoſe, what I have already ſaid is ſufficient to evidence unto you the Errors of Your ways, and the Truth of Ours.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi rend="margQuotes"> I confeſs, I am very much ſhaken by your Argu<g ref="char:EOLhyphen"/>ments; and the next time we meet, you may poſſibly ob<g ref="char:EOLhyphen"/>tain an entire Conqueſt over me.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſt.</speaker>
+               <p>I am very glad it is come to this, which is a kind of new Creation in us; God having thus produced Light out of
+<pb n="55" facs="tcp:65571:7"/>
+Darkneſs: You having thus (contrary to your intent) ſent me into the Boſome of the Church of <hi>England,</hi> whereinto I hope you will likewiſe throw your ſelf; whereby we ſhall not be half, but whole Brothers; having one Father, (which is, God,) one Mother, (the Church of <hi>England,)</hi> Jeſus Chriſt, the Saviour of the World, being our Elder Brother: In this confidence I dare call you Brother; and Dear Brother, fare you well for this time.</p>
+            </sp>
+         </div>
+         <div type="text">
+            <pb n="56" facs="tcp:65571:8"/>
+            <head>The CONCLUSION.</head>
+            <p>THe Dialogue thus finiſhed, I think it not amiſs to ſay ſome<g ref="char:EOLhyphen"/>thing concerning the firſt General Council that ever was in the Church of Chriſt; you have the whole Story of it in the 15 Chap. of the <hi>Acts</hi> of the Holy Apoſtles; I ſhall take notice, that it was not called by the particular direction of any of the Apoſtles, but that all of them did concur thereunto; and this was, doubtleſs, the Method of the Chriſtian Church, during it's greateſt Purity and Integrity; and the truth is, no other way could be uſed, while the Church of Chriſt was under Perſecution: but in proceſs of time, when ſupreme powers did receive, and pro<g ref="char:EOLhyphen"/>tect the Chriſtian Faith; and that (as the Scripture ſaith,) Kings and Queens were Nurſing Fathers, and Nurſing Mothers, of the Spouſe of Chriſt; then were general Councils ſummon'd by them, and by them were theſe Councils left to their free Debates and determinations; whoſe Decrees were afterwards confirm'd by the Supreme Authorities, whereby thoſe Decrees, which before ſuch a Confirmation did only oblige the Conſcience, had then the Coercive Power of the State to compell their Obſervation; and this Method did continue, till the Uſurpation of the Biſhop of <hi>Rome</hi> upon all Powers, both Civil and Eccleſiaſtical; for he now takes upon him to aſſume unto himſelf the power of calling Councils, of preſiding in them, and Confirming their Decrees; ſaying, that without His Confirmation, they are invalid. Thus does he make his own Will to be of more Authority than a General Council; and this ſame Will of his to be Superior to all Supreme Powers and Authorities whatſoever: But I ſhall add no more upon this Subject, but proceed to what I at firſt propoſed in the beginning hereof; where I ſhall take notice of ſome things in the 15 th Chap. of the <hi>Acts</hi> of the Holy Apoſtles, where we reade of the firſt General Council that ever was in the Church of Chriſt; and therefore moſt likely to be a direction for all o<g ref="char:EOLhyphen"/>thers,) It was occaſioned by an Appeal made by ſome Converte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gentiles, to this General Council; for ſome Phariſaical Chriſti<g ref="char:EOLhyphen"/>ans
+<pb n="57" facs="tcp:65571:8"/>
+would impoſe upon theſe Converted Gentiles the whole Law of <hi>Moſes;</hi> therefore to this General Council they do appeal; the words of the Council are theſe. <hi>— <note place="margin">Ver. 23. of this 15. Chap.</note> The Apoſtles, and Elders, and Brethren ſend Greeting unto the Brethren which are of the Gentiles in</hi> Antioch, <hi>and</hi> Syria, <hi>and</hi> Cilicia.</p>
+            <p>
+               <note place="margin">24.</note> 
+               <hi>Foraſmuch as We have heard, that certain which went out from Us, have troubled You with Words ſubverting Your Souls; ſaying,</hi> Ye muſt be Circumciſed, and keep the Law, to whom We gave no ſuch Commandment:</p>
+            <p>
+               <note place="margin">25.</note> 
+               <hi>It ſeemed good unto Us, being Aſſembled with one accord, to ſend choſen Men unto You, with Our beloved</hi> Barnabas <hi>and</hi> Paul;</p>
+            <p>
+               <note place="margin">26.</note> 
+               <hi>Men that have hazarded their Lives for the Name of Our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <note place="margin">27.</note> 
+               <hi>We have ſent therefore</hi> Judas, <hi>and</hi> Silas, <hi>who ſhall alſo tell you the ſame things by word of mouth.</hi>
+            </p>
+            <p>
+               <note place="margin">28.</note> 
+               <hi>For it ſeemed good to the Holy-Ghoſt, and to Us, to lay upon You no greater Burthen, than theſe neceſſary things.</hi>
+            </p>
+            <p>
+               <note place="margin">29.</note> 
+               <hi>That Ye abſtain from Meats offered to Idols, and from Blood, and from things Strangled, and from Fornication; from which if ye keep your ſelves, ye ſhall do well; fare ye well.</hi>
+            </p>
+            <p>Theſe be the words together; We ſhall now take them into parts.<hi>—The Apoſtles, and Elders, and Brethren,</hi> [There is no Primacy in St. <hi>Peter,</hi> or in any body elſe; <milestone type="tcpmilestone" unit="unspecified" n="1"/> either firſt, as to calling this Council; <milestone type="tcpmilestone" unit="unspecified" n="2"/> or Secondly, In degree it ſelf; <milestone type="tcpmilestone" unit="unspecified" n="3"/> or Thirdly, by way of Confirming this Decree of the Council; Apoſtles, Elders, and Brethren, are all alike concerned;] <hi>Send Greeting, unto the Brethren, which are of the Gentiles in</hi> Antioch, Syria, <hi>and</hi> Cilicia. [Now here I cannot but take notice, that the Church of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> treats the Churches of <hi>Antioch,</hi> &amp;c. not with a Maternal, but a Fraternal Appellation; not like the Church of <hi>Rome,</hi> (cer<g ref="char:EOLhyphen"/>tainly if ever any had been the Mother-Church, it muſt have been that of <hi>Jeruſalem,</hi> St. <hi>Peter,</hi> and all the reſt of the Apoſtles; yea, even a General Council there reſiding,) which makes her ſelf the Mother-Church, and all others ſhe will have to be eſtee<g ref="char:EOLhyphen"/>med but Her Children; and yet in this General Council St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was preſent, as appears by the 7. Verſe of this 15. Chap. and yet St. <hi>Peter</hi> does not pronounce any Judgment; contenting him<g ref="char:EOLhyphen"/>ſelf rather with relating matter of Fact; and <hi>Paul</hi> and <hi>Barnabas</hi> do the ſame, as it is Ver. 11. But the Apoſtle St. <hi>James</hi> proceeds further in Ver. 13, 14, 15, 16, 17, 18. and in the 19. Ver. is very
+<pb n="58" facs="tcp:65571:9"/>
+bold, ſaying;<hi>—Wherefore my ſentence is, that we trouble not them which from among the Gentiles are turned to God;—</hi>and Ver. 20. He proceeds.—But that we [here St. <hi>James</hi> is equal with St. <hi>Peter,</hi> or any of the reſt] write unto them, that they abſtain from pollutions of Idols, and from Fornication, and from things ſtrangled, and from Blood;—And to this Sentence of St. <hi>James</hi> the whole Council acquieſces, not any one ſpeaking after St. <hi>James;]—Foraſmuch as certain which went out from Us, have troubled you with words ſubverting your Souls,</hi> ſaying, <hi>Ye muſt be Circumciſed, and keep the Law,</hi> to whom We, not St. <hi>Peter</hi> alone] gave no ſuch Commandment, it ſeemed good unto Us, being aſ<g ref="char:EOLhyphen"/>ſembled with one accord; [This Council you ſee was not called by St. <hi>Peter</hi> alone,] to ſend choſen men unto You, with our be<g ref="char:EOLhyphen"/>loved <hi>Barnabas</hi> and <hi>Paul,</hi> Men that have hazarded their Lives for the Name of Our Lord Jeſus Chriſt; We have ſent there<g ref="char:EOLhyphen"/>fore <hi>Judas,</hi> and <hi>Silas,</hi> who ſhall alſo tell you the ſame things by word of Mouth; for it ſeemed good to the Holy-Ghoſt, and to Us; [you ſee the Holy-Ghoſt is not tyed to St. <hi>Peter</hi>'s, or the Pope's Chair, nor the Colledg of Cardinals, but remaining with the General Council;] To lay upon you no heavier burthen than theſe neceſſary things, that ye abſtain from Meats offer'd to Idols, from Blood, and from things ſtrangled, and from Fornication; [all this, the Sentence of, and Opinion of St. <hi>James</hi> delivered to the Council, and thus approved of by the Council,] from which if ye keep your ſelves, ye ſhall do well; fare ye well.</p>
+            <p>I have thus run over the words of this firſt General Council, with ſome few Animadverſions thereon; and if therein I have done the Church of Chriſt any Service, I have my aim; and do retun unto him all Honour, and Glory, for His aſſiſtance herein, by whom I have been hereunto enabled.</p>
+            <p>To the Holy Trinity, Father, Son, and Holy-Ghoſt, be all Honour, and Glory, now, and for ever, <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:65571:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
